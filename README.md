@@ -21,8 +21,8 @@
 
 
 ## 📊 GitHub Stats
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Markusdeatrius&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Markusdeatrius's GitHub Stats" />
+##<img width="390" src="https://github-readme-stats.vercel.app/api?username=Markusdeatrius&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Markusdeatrius's GitHub Stats" />
 
 ## 🖋️ Top Languages
-<img width="391" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markusdeatrius&layout=compact&theme=transparent&hide=html" alt="Markusdeatrius's Top Languages" />
+##<img width="391" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markusdeatrius&layout=compact&theme=transparent&hide=html" alt="Markusdeatrius's Top Languages" />
 
